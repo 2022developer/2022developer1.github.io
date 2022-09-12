@@ -1,6 +1,6 @@
 {
-    "name": "newphonicscircle",
-    "short_name": "newphonicscircle",
+    "name": "screen_limit",
+    "short_name": "screen_limit",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
